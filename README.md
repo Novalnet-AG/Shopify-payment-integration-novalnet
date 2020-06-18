@@ -56,11 +56,11 @@ Freeware Novalnet license: LICENSE agreement.
 ## Your Feedback
 
 For any kind of inquiries or feedback, please get in touch with us via the following contact information or open an issue here in Github.<br> 
-[technic@novalnet.de](technic@novalnet.de)
-+49 89 9230683-19
+[technic@novalnet.de](technic@novalnet.de)<br>
++49 89 9230683-19<br>
 
-[sales@novalnet.de](sales@novalnet.de)
-+49 89 9230683-21
+[sales@novalnet.de](sales@novalnet.de)<br>
++49 89 9230683-21<br>
 
 
 
