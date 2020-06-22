@@ -51,16 +51,12 @@ Novalnet payment integration for Shopify is available in English and German lang
 A detailed installation guide including all the Shopify payment integration features is included in the package.
 
 ## License 
-Freeware Novalnet license: LICENSE agreement.
+Freeware Novalnet license: [LICENSE agreement](https://github.com/Novalnet-AG/Shopify-Payment-Integration/blob/master/LICENSE).
 
 ## Your Feedback
 
 For any kind of inquiries or feedback, please get in touch with us via the following contact information or open an issue here in Github.<br> 
-[technic@novalnet.de](technic@novalnet.de)<br>
-+49 89 9230683-19<br>
 
-[sales@novalnet.de](sales@novalnet.de)<br>
-+49 89 9230683-21<br>
-
-
-
+Email: sales@novalnet.de<br>
+Phone: +49 89 9230683-21<br>
+Web: www.novalnet.com/contact
