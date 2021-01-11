@@ -59,4 +59,4 @@ For any kind of inquiries or feedback, please get in touch with us via the follo
 
 Email: sales@novalnet.de<br>
 Phone: +49 89 9230683-21<br>
-Web: www.novalnet.com/contact
+Web: www.novalnet.de
