@@ -8,10 +8,10 @@ The Shopify payment integration from Novalnet allows you to accept payments worl
 Click the installation link included in the Novalnet Shopify payment integration package.
 
 ### Step 2: Custom Payment Method Setup
-Choose your preferred payment methods through Settings --> Payment Providers.
+Choose your preferred payment methods through Settings &#8594; Payment Providers.
 
 ### Step 3: Add Custom Script 
-Add the custom script in the Checkout page. Navigate to Settings --> Checkout process. 
+Add the custom script in the Checkout page. Navigate to Settings &#8594; Checkout process. 
 
 Refer our installation docs for specifics on how to add the custom script during the checkout process.
 
@@ -50,8 +50,8 @@ Novalnet payment integration for Shopify is available in English and German lang
 ## Documentation
 A detailed installation guide including all the Shopify payment integration features is included in the package.
 
-## License 
-Freeware Novalnet license: [LICENSE agreement](https://github.com/Novalnet-AG/Shopify-Payment-Integration/blob/master/LICENSE).
+## License
+See our License Agreement at: https://www.novalnet.com/payment-plugins/free/license
 
 ## Your Feedback
 
@@ -60,3 +60,10 @@ For any kind of inquiries or feedback, please get in touch with us via the follo
 Email: sales@novalnet.de<br>
 Phone: +49 89 9230683-21<br>
 Web: www.novalnet.de
+
+
+## Who is Novalnet? 
+
+Novalnet is a <a href="https://www.novalnet.de/zahlungsinstitut">leading financial service institution</a> offering a flexible API for processing online payments in the e-commerce market. We are based in Munich, Germany and operate as a full-service payment provider, enabling scalable payment integration with all major shopping carts as well as personalized e-commerce sites.
+Unparalleled functionalities of the Novalnet payment platform offer merchants and online shopping cart developers an end-to-end solution for automated payment processing all the way from checkout to receivables. Our SaaS engine is PCI DSS certified and designed to enable real-time risk management, secured payments via escrow accounts, efficient receivables management, dynamic member and subscription management, customized payment solutions for various business models (e.g. online stores, online marketplaces, affiliate programs, crowdfunding platforms etc.) and much more. 
+We keep tech in-house and commit to support our online merchants, retailers, and developers in providing secure and innovative future payments. 
