@@ -1,6 +1,6 @@
 # SHOPIFY PAYMENT INTEGRATION BY NOVALNET  
 
-The Shopify payment integration from Novalnet allows you to accept payments worldwide, fully automate your payment processing and offer seamless payment experiences – thus simplifying payment processing with a single integration.  
+The Shopify payment integration from Novalnet allows you to accept payments worldwide, fully automate your payment processing and offer seamless payment experiences – thus simplifying payment processing with a single integration.   
 
 ## Installation and Configuration
 
