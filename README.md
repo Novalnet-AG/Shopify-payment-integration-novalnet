@@ -18,7 +18,7 @@ Refer our installation docs for specifics on how to add the custom script during
 ## Demo
 After successful configuration you can test the checkout process with our demo test credentials, which can be found on the Novalnet [developer portal](https://developer.novalnet.de/testing). 
 
-## Secured integration
+## Shopify Integration Features
 * Easy integration with minimal coding 
 * Robust and reliable platform
 * Simple signup process with no hidden charges
@@ -28,7 +28,7 @@ After successful configuration you can test the checkout process with our demo t
 * No PCI DSS certification required for the merchants, we have it for you
 
 ## Prerequisites
-To accept and process Novalnet payments in Shopify, you need a Novalnet merchant account. You will get one [here](https://www.novalnet.de/kontakt/sales). 
+To accept and process Novalnet payments in Shopify, you need a Novalnet merchant account. Contact us [here](https://www.novalnet.de/kontakt/sales). 
 
 ## Languages Supported
 Novalnet payment integration for Shopify is available in English and German languages. Live technical support available for customers in various languages that include:
@@ -45,7 +45,7 @@ Novalnet payment integration for Shopify is available in English and German lang
 * Tamil
 
 ## Integrated Payments
-[See here](https://www.novalnet.com/modul/shopify) all the supported payment methods for the Novalnet payment integration. Novalnet offers full-fledged sandbox environment for testing payments with sample test credentials. We update our system in line with the growing market trends and shop system updates.
+[See here](https://www.novalnet.com/modul/shopify) for all the supported payment methods for the Novalnet payment integration. Novalnet offers full-fledged sandbox environment for testing payments with sample test credentials. We update our system in line with the growing market trends and shop system updates.
 
 ## Documentation
 A detailed installation guide including all the Shopify payment integration features is included in the package.
