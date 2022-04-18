@@ -64,6 +64,6 @@ Web: www.novalnet.de
 
 ## Who is Novalnet? 
 
-Novalnet is a <a href="https://www.novalnet.de/zahlungsinstitut">leading financial service institution</a> offering a flexible API for processing online payments in the e-commerce market. We are based in Munich, Germany and operate as a full-service payment provider, enabling scalable payment integration with all major shopping carts as well as personalized e-commerce sites.
+Novalnet AG is a <a href="https://www.novalnet.de/zahlungsinstitut">leading financial service institution</a> offering a flexible API for processing online payments in the e-commerce market. We are based in Munich, Germany and operate as a full-service payment provider, enabling scalable payment integration with all major shopping carts as well as personalized e-commerce sites.
 Unparalleled functionalities of the Novalnet payment platform offer merchants and online shopping cart developers an end-to-end solution for automated payment processing all the way from checkout to receivables. Our SaaS engine is PCI DSS certified and designed to enable real-time risk management, secured payments via escrow accounts, efficient receivables management, dynamic member and subscription management, customized payment solutions for various business models (e.g. online stores, online marketplaces, affiliate programs, crowdfunding platforms etc.) and much more. 
 We keep tech in-house and commit to support our online merchants, retailers, and developers in providing secure and innovative future payments. 
