@@ -35,14 +35,6 @@ Novalnet payment integration for Shopify is available in English and German lang
 
 * English
 * German
-* French
-* Spanish
-* Italian
-* Chinese
-* Russian
-* Arabic
-* Hindi
-* Tamil
 
 ## Integrated Payments
 [See here](https://www.novalnet.com/modul/shopify) for all the supported payment methods for the Novalnet payment integration. Novalnet offers full-fledged sandbox environment for testing payments with sample test credentials. We update our system in line with the growing market trends and shop system updates.
