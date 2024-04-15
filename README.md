@@ -49,10 +49,17 @@ See our License Agreement at: https://www.novalnet.com/payment-plugins/free/lice
 
 For any kind of inquiries or feedback, please get in touch with us via the following contact information or open an issue here in Github.<br> 
 
-Email: sales@novalnet.de<br>
-Phone: +49 89 9230683-21<br>
-Web: www.novalnet.de
+## Documentation & Support
+For more information about the shopify Payment Integration by Novalnet, please get in touch with us: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
 
+Novalnet AG<br>
+Zahlungsinstitut (ZAG)<br>
+Gutenbergstraße 7<br>
+D-85748 Garching<br>
+Deutschland<br>
+E-mail: sales@novalnet.de<br>
+Tel: +49 89 9230683-20<br>
+Web: www.novalnet.de
 
 ## Who is Novalnet? 
 
